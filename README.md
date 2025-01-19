@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑 26 y.o. business Informatics student (master)<br>💬 Feel free to ask me anything about me or my projects<br>
+🧑 27 y.o. business Informatics student (master)<br>💬 Feel free to ask me anything about me or my projects<br>
 
 
 # 💻 Tech Stack:
